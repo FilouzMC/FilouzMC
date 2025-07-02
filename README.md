@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**FilouzMC/FilouzMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎂 19 years old  
+- 💻 Tech enthusiast – programming is a hobby, not my main drive  
+- 🎓 Currently building toward a **sysadmin** career
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Networking / Sysadmin**: Active Directory, WireGuard, Nginx Proxy Manager  
+- **Virtualization / Containers**: Proxmox, Proxmox Backup Server, LXC, QEMU, Docker, Portainer  
+- **Storage / Backup**: TrueNAS, SQL databases  
+- **Automation & Home**: Home Assistant (I like domotics), Authentik (identity management)  
+- **Programming**: Node.js, Python, HTML, CSS
+
+## 📫 Contact & Socials
+- 📧 Email: **maximepont@pm.me**
+- [Twitter](https://x.com/Filouzzz) - [Reddit](https://www.reddit.com/user/Filouzzz/)
+
